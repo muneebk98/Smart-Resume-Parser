@@ -4,6 +4,7 @@ import re
 import json
 import logging
 
+
 from constants import email_pattern, phone_pattern, skills_keywords
 
 
