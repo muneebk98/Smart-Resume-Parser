@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Ali Khan",
+        "email": "ali.khan@example.com",
+        "phone": "+92-300-1234567",
+        "skills": [
+            "Python",
+            "Java",
+            "SQL"
+        ]
+    },
+    {
+        "name": "Hina Raza",
+        "email": "hina.raza@gmail.com",
+        "phone": "0332-9876543",
+        "skills": [
+            "C++",
+            "Machine Learning",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "Ahmed Shah",
+        "email": "ahmed_shah@domain.org",
+        "phone": "0315-1231234",
+        "skills": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "name": "Sana Fatima",
+        "email": "sana.fatima@xyz.com",
+        "phone": "+92-321-9876543",
+        "skills": [
+            "Java",
+            "C++",
+            "Communication",
+            "JavaScript"
+        ]
+    },
+    {
+        "name": "Name: Junaid Akram",
+        "email": "j.akram@myemail.com",
+        "phone": "0345-5678901",
+        "skills": [
+            "React",
+            "Node.js"
+        ]
+    },
+    {
+        "name": "Just some random text.",
+        "email": null,
+        "phone": null,
+        "skills": []
+    }
+]

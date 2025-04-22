@@ -1,0 +1,28 @@
+===== Resume Summary Report =====
+
+Total resumes parsed: 6
+
+
+Top 5 most common skills:
+  Python: 2
+  Java: 2
+  C++: 2
+  SQL: 1
+  Machine Learning: 1
+
+Skill frequency:
+  Python: 2
+  Java: 2
+  C++: 2
+  SQL: 1
+  Django: 1
+  React: 1
+  JavaScript: 1
+  Machine Learning: 1
+  Data Analysis: 1
+  Node.js: 1
+
+Resumes missing phone or skills:
+  - Just some random text.
+
+=================================
