@@ -11,6 +11,7 @@ def main():
     if choice == "parser":
         subprocess.run(["python", "parser.py"])
     elif choice == "report":
+        subprocess.run(["python", "parser.py"])
         subprocess.run(["python", "report.py"])
     else:
         print("Invalid option. Use 'parser' or 'report'.")
