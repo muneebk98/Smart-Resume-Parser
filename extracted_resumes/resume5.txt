@@ -1,0 +1,4 @@
+Name: Junaid Akram  
+Email Address: j.akram@myemail.com  
+Phone No: 0345-5678901  
+Skills: HTML, CSS, React, Node.js

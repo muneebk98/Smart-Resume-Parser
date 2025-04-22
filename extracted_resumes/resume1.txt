@@ -1,0 +1,4 @@
+Ali Khan  
+ali.khan@example.com  
++92-300-1234567  
+Skills: Python, Java, SQL, Team Leadership

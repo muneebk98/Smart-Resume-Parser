@@ -1,0 +1,4 @@
+Ahmed Shah  
+Contact: ahmed_shah@domain.org  
+Mobile: 0315-1231234  
+Skills include: Python, Django, REST APIs
